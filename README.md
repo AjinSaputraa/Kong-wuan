@@ -12,3 +12,4 @@ break
 yu
 x
 xa
+jawik
