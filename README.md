@@ -13,3 +13,4 @@ yu
 x
 xa
 jawik
+wiwk
